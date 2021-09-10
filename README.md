@@ -9,7 +9,7 @@ For the ease of passengers, following rules are taken into consideration while a
   
            III . The **2nd** floor will be allotted to persons below 40 yrs.
            
- Hence, to keep the records of quarantized person, I have designed the quarantine facility management system. I have provided a piece of code suct that the records
+ Hence, to keep the records of quarantized person, I have designed the quarantine facility management system. I have provided a piece of code(**mp1.sql**) suct that the records
   of the quarantined persons can be stored properly and accessed efficiently.
   
   
